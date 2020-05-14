@@ -1,0 +1,16 @@
+Pradeep missed a call from you
+01/06/2016, 20:00
+sound nhi ata hai
+maine pdf send kia h
+Simple to h
+Bhar do aur namini me papa ka name de do
+hi
+{
+"hostname": "us-cdbr-iron-east-01.cleardb.net",
+"jdbcUrl": "jdbc:mysql://us-cdbr-iron-east-01.cleardb.net/ad_6e0732a666e5e1e?user=bede790d8655d1\u0026password=a5fa6f8f",
+"name": "ad_6e0732a666e5e1e",
+"password": "a5fa6f8f",
+"port": "3306",
+"uri": "mysql://bede790d8655d1:a5fa6f8f@us-cdbr-iron-east-01.cleardb.net:3306/ad_6e0732a666e5e1e?reconnect=true",
+"username": "bede790d8655d1"
+}
